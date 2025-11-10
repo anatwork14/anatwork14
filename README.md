@@ -26,11 +26,21 @@
 
 <br>
 
-<div class="grid grid-cols-2">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=anatwork14&show_icons=true&include_all_commits=true" />
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=anatwork14&theme=light&hide_border=false" />
-
-</div>
+<div align="center" border="0">
+  <tr border="none"> <td align="center" style="padding: 10px;"> <img 
+        title="My GitHub Stats" 
+        alt="Khanh An's GitHub Stats" 
+        src="https://github-readme-stats.vercel.app/api?username=anatwork14&show_icons=true&include_all_commits=true" 
+      />
+    </td>
+    <td align="center" style="padding: 10px;"> <img 
+        title="My GitHub Streak" 
+        alt="Khanh An's GitHub Streak" 
+        src="https://streak-stats.demolab.com/?user=anatwork14&theme=light&hide_border=false" 
+      />
+    </td>
+  </tr>
+</table>
 
 
 
