@@ -1,16 +1,54 @@
-## Hi there 👋
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
-<!--
-**anatwork14/anatwork14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--h1 without bottom border-->
+<h1 align="center">Hi mate <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Khanh An</h1>
+<h3 align="center">Software Engineer | Data Engineer | AI/ML Engineer</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/buikhanhan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khanh an" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anhnnv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khanh an" height="30" width="40" /></a>
+<a href = "mailto: an.buikhanh.work@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
+- :robot: I am an `AI/Data/Software Engineer` passionate about building intelligent systems.
+- :bulb: I love tackling `practical problems` through innovative solutions and cutting-edge technology.
+- :microscope: Actively engaged in `research` to push the boundaries of AI and data science.
+- :technologist: I leverage Software, AI, and Data as solutions for every `Problem`.
+- :rocket: Experienced in developing `end-to-end solutions` from research to production deployment.
+- :chart_with_upwards_trend: Specializing in `Machine Learning`, `Deep Learning`, and `Data Engineering`.
+- :gear: Building scalable systems that bridge the gap between `research` and `real-world applications`.
+- :nerd_face: Always `learning new things` and staying updated with the latest tech trends.
+
+<br>
+
+![Bui Khanh An's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anatwork14&show_icons=true&include_all_commits=true)
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=anatwork14&theme=light&hide_border=false" />
+
+
+
+</p>        
+<!--- stats (end) -->
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,cpp,js,ts,react,nextjs,nodejs,express,fastapi,git,docker,gcp,postgres,mongodb,mysql,kafka,linux,vscode,jupyter&perline=13" />
+  </a>
+</p>
+
+Last Edited on: 10/11/2025
