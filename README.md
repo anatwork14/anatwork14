@@ -3,7 +3,7 @@
 
 <!--h1 without bottom border-->
 <h1 align="center">Hi mate <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Khanh An</h1>
-<h3 align="center">Software Engineer | Data Engineer | AI/ML Engineer</h3>
+<h3 align="center">Software Engineer | AI/ML Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/buikhanhan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khanh an" height="30" width="40" /></a>
 <a href="https://www.facebook.com/anhnnv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khanh an" height="30" width="40" /></a>
