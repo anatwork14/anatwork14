@@ -26,8 +26,11 @@
 
 <br>
 
-![Bui Khanh An's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anatwork14&show_icons=true&include_all_commits=true)
+<div class="grid grid-cols-2">
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=anatwork14&show_icons=true&include_all_commits=true" />
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=anatwork14&theme=light&hide_border=false" />
+
+</div>
 
 
 
