@@ -47,9 +47,9 @@
 </p>        
 <!--- stats (end) -->
 <hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
+<h3 align="left">✨ Random Dev Quote:</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
 </p>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
